@@ -1,0 +1,7 @@
+{
+  "variables" : [ {
+    "name" : "var_a",
+    "value" : "a",
+    "description" : ""
+  } ]
+}
